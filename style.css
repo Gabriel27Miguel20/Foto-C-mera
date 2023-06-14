@@ -2,12 +2,18 @@
 
 
 .cabecalho {
-    background-color: darkmagenta;
-    color: white;
+    background-color: rgb(118, 128, 235);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .cabecalho-imagem{
     width: 10%;
+}
+
+.cabecalho{
+    display: ruby-base;
+    margin: 0 1px
 }
  
