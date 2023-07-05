@@ -19,6 +19,14 @@
     margin: 0 1px
 }
 .play{
-display: flex; justify-content: space-around;align-items: center; padding: 200px;}
+display: flex; justify-content:center;align-items: center; padding: 200px;}
 
 .botaoplay {width:10% ;}
+
+.rodape{
+    background-color: rgb(118, 128, 235)
+    ; display: flex; justify-content: center;
+}
+
+.rodape-imagem {width: 4%;}
+
