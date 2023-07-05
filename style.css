@@ -10,11 +10,15 @@
 }
 .cabecalho-imagem{
     width: 10%;
+    display: ruby-base-container;
+    align-items: center;
 }
 
 .cabecalho{
     display: ruby-base;
     margin: 0 1px
 }
-.bo {}
- 
+.play{
+display: flex; justify-content: space-around;align-items: center; padding: 200px;}
+
+.botaoplay {width:10% ;}
